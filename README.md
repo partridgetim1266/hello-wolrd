@@ -1,2 +1,5 @@
 # hello-wolrd
-github guide hello world
+ 
+ Hi people!
+ 
+ Im Tim!
